@@ -16,4 +16,18 @@ __*this is bold and italic both*__
    1. kll
 3. ghj
 4. bhhj
+
+# Table 
+
+Android | ios
+---- | ----
+Medium app for android | Medium App for ios 
+
+- add **:** to both side -> **:---:** like this to align the text of table in center
+
+# Link creation
+[Play Store](www.google.com)
+
+
+
   
