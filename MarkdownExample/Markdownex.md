@@ -6,3 +6,14 @@ __*this is bold and italic both*__
 # Header 1
 
 ## Header 2
+
+### Creating the list:
+- this is first element
+- second element
++ dfgfhgh
+
+1. adc
+   1. kll
+3. ghj
+4. bhhj
+  
