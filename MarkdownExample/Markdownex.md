@@ -34,6 +34,27 @@ playstore | Appstore
 # video adding
 [![](https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png)](https://youtu.be/Ez8F0nW6S-w?feature=shared)
 
+# Writing Code Blocks using Markdown
+
+``` python
+def my_function(food):
+  for x in food:
+    print(x)
+fruits = ["apple", "banana", "cherry"]
+my_function(fruits)
+```
+
+``` html
+<!DOCTYPE html>
+<html>
+<body>
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+</body>
+</html>
+```
+
+
 
 
   
